@@ -1,0 +1,14 @@
+- [x] Build seven separate pages with shared mobile navigation and footer
+- [x] Replace generated room images with icon-based Paint Finder choices
+- [x] Fix clipping and horizontal overflow across mobile pages
+- [x] Verify routes, interactions, and desktop/mobile rendering
+- [x] Make preset and custom paint tones visibly work and carry into quote
+- [x] Polish motion and loading across every page, retaining reduced-motion support
+- [x] Finalize footer wording, page metadata, and verify all pages and key actions
+- [x] Remove every AI-generated image and keep only client-supplied visuals
+- [x] Rework Paint Finder room choices without generated room photography
+- [x] Verify no removed image remains referenced and all pages still work
+- [x] Highlight Facebook, LinkedIn, Instagram, and YouTube accounts in the footer with working links
+- [x] Remove Velvetto, Pearl, Travertino, Marmarino, and Palace from every product view
+- [x] Feature the five client-supplied team-at-work photos prominently on the homepage
+- [x] Verify the revised homepage and remaining product catalogue on mobile and desktop
